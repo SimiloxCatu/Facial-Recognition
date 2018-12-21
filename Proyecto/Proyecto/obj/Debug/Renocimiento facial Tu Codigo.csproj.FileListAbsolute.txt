@@ -1,0 +1,47 @@
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\bin\Debug\Renocimiento facial Tu Codigo.exe.config
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\bin\Debug\Renocimiento facial Tu Codigo.exe
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\bin\Debug\Renocimiento facial Tu Codigo.pdb
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento facial Tu Codigo.csprojResolveAssemblyReference.cache
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento_facial_Tu_Codigo.Form1.resources
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento_facial_Tu_Codigo.frmReconocedorF.resources
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento_facial_Tu_Codigo.Properties.Resources.resources
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento_facial_Tu_Codigo.Registrar.resources
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento facial Tu Codigo.csproj.GenerateResource.Cache
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento facial Tu Codigo.exe
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento facial Tu Codigo.pdb
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\bin\Debug\Renocimiento facial Tu Codigo.exe.config
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento facial Tu Codigo.exe
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento facial Tu Codigo.pdb
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\bin\Debug\Renocimiento facial Tu Codigo.exe
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\bin\Debug\Renocimiento facial Tu Codigo.pdb
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\bin\Debug\mscorlib.dll
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\bin\Debug\normidna.nlp
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\bin\Debug\normnfc.nlp
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\bin\Debug\normnfd.nlp
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\bin\Debug\normnfkc.nlp
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\bin\Debug\normnfkd.nlp
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento facial Tu Codigo.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento_facial_Tu_Codigo.Form1.resources
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento_facial_Tu_Codigo.frmReconocedorF.resources
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento_facial_Tu_Codigo.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento_facial_Tu_Codigo.Registrar.resources
+C:\Users\Usuario\Desktop\Proyecto\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento facial Tu Codigo.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\bin\Debug\Renocimiento facial Tu Codigo.exe.config
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\obj\Debug\Renocimiento facial Tu Codigo.exe
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\obj\Debug\Renocimiento facial Tu Codigo.pdb
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\obj\Debug\Renocimiento facial Tu Codigo.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\obj\Debug\Renocimiento_facial_Tu_Codigo.Form1.resources
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\obj\Debug\Renocimiento_facial_Tu_Codigo.frmReconocedorF.resources
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\obj\Debug\Renocimiento_facial_Tu_Codigo.Registrar.resources
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\obj\Debug\Renocimiento facial Tu Codigo.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\bin\Debug\Renocimiento facial Tu Codigo.exe
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\bin\Debug\Renocimiento facial Tu Codigo.pdb
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\bin\Debug\mscorlib.dll
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\bin\Debug\normidna.nlp
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\bin\Debug\normnfc.nlp
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\bin\Debug\normnfd.nlp
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\bin\Debug\normnfkc.nlp
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\bin\Debug\normnfkd.nlp
+C:\Users\Usuario\Desktop\Proyecto\Proyecto\obj\Debug\Renocimiento_facial_Tu_Codigo.Properties.Resources.resources
